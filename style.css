@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+h1{ /*applied to all h1 tags:*/
+    font-family: sans-serif;    /*set font to a sanserif one*/
+    margin: 5px;    /*make the margin aroumd h1 objects 5 pixels wide*/
+}
+h3{ /*applied to all h3 tags:*/
+    margin: 5px;    /*make the margin aroumd h3 objects 5 pixels wide*/
+}
+
+a{  /*applied to all a tags:*/
+    text-decoration: none;      /*normally, text-decoration: underline. setting it to none remoes it.*/
+}
